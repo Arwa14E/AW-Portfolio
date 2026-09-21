@@ -21,7 +21,7 @@ export default function Contact() {
 
             <div className="mt-7 flex flex-wrap gap-3">
               <a
-                href="mailto:your@email.com"
+                href="mailto:arwa.eisa.neami@email.com"
                 className="group inline-flex items-center gap-2 rounded-full bg-[#7C6FE6] px-5 py-3 text-sm font-semibold text-white transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#6256C9]"
               >
                 <Mail size={16} />
@@ -34,7 +34,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://wa.me/966XXXXXXXXX"
+                href="https://wa.me/966537416246"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 rounded-full border border-[#DDD7EE] bg-white px-5 py-3 text-sm font-semibold text-[#181624] transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#FFFFFF]"
