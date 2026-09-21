@@ -21,7 +21,7 @@ export default function Contact() {
 
             <div className="mt-7 flex flex-wrap gap-3">
               <a
-                href="mailto:arwa.eisa.neami@email.com"
+                href="mailto:arwa.eisa.neami@gmail.com"
                 className="group inline-flex items-center gap-2 rounded-full bg-[#7C6FE6] px-5 py-3 text-sm font-semibold text-white transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#6256C9]"
               >
                 <Mail size={16} />
