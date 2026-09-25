@@ -1,5 +1,14 @@
 const projects = [
   {
+    title: "AW Insights",
+    category: "Dashboard · Analytics",
+    description:
+      "A modern business analytics dashboard designed to visualize revenue, orders, customers, and performance through a clean and responsive interface.",
+    technologies: ["React", "Tailwind CSS", "Recharts", "Vite"],
+    link: "https://aw-insights.vercel.app/",
+  },
+
+  {
     title: "LUMÉ Beauty Salon",
     category: "Web Development · Booking System",
     description:
