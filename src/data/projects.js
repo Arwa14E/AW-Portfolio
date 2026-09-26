@@ -1,4 +1,13 @@
 const projects = [
+   {
+  title: "Focusly",
+  category: "SaaS · Productivity",
+  description:
+    "A modern productivity SaaS designed to help users organize tasks, manage daily plans, and track their productivity.",
+  technologies: ["React", "Tailwind CSS", "Supabase"],
+  link: "https://focusly-teal.vercel.app/",
+},
+
   {
     title: "AW Insights",
     category: "Dashboard · Analytics",
