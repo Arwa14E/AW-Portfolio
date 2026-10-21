@@ -1,12 +1,29 @@
+
 const projects = [
-   {
-  title: "Focusly",
-  category: "SaaS · Productivity",
-  description:
-    "A modern productivity SaaS designed to help users organize tasks, manage daily plans, and track their productivity.",
-  technologies: ["React", "Tailwind CSS", "Supabase"],
-  link: "https://focusly-teal.vercel.app/",
-},
+  {
+    title: "Student Exam Repository API",
+    category: "Backend Development · REST API",
+    description:
+      "A RESTful API for managing university courses, exam collections, and questions, built with FastAPI and PostgreSQL. Includes data validation, error handling, and automated schema tests.",
+    technologies: [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Pydantic",
+      "Pytest",
+    ],
+    link: "https://github.com/Arwa14E/student-exam-api",
+  },
+
+  {
+    title: "Focusly",
+    category: "SaaS · Productivity",
+    description:
+      "A modern productivity SaaS designed to help users organize tasks, manage daily plans, and track their productivity.",
+    technologies: ["React", "Tailwind CSS", "Supabase"],
+    link: "https://focusly-teal.vercel.app/",
+  },
 
   {
     title: "AW Insights",
@@ -41,7 +58,7 @@ const projects = [
     description:
       "A personal portfolio focused on clean design, responsive layouts, and showcasing digital work.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    link: "#",
+    link: "https://aw-portfolio-woad.vercel.app/",
   },
 ];
 
